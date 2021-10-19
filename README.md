@@ -34,8 +34,8 @@ To get a local copy up and running follow these simple example steps.
 
 ## Authors
 
-GitHub: [@NataliaPoletaeva](https://github.com/NataliaPoletaeva)
-Twitter: @Fly_Meets(https://twitter.com/Fly_Meets)
+- GitHub: [@NataliaPoletaeva](https://github.com/NataliaPoletaeva)
+- Twitter: @Fly_Meets(https://twitter.com/Fly_Meets)
 
 ## 🤝 Contributing
 
